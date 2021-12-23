@@ -13,3 +13,21 @@ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-oc
 npm install
 
 echo "All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
+npm install @adiwajshing/baileys
+npm install @adiwajshing/baileys@3.5.2
+npm install @adiwajshing/baileys@3.5.3
+npm install @adiwajshing/baileys@3.5.1
+echo "All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
+
+
+#!/usr/bin/bash
+npm i fs-extra && npm i file-type && npm i node-fetch && npm i awesome-phonenumber && npm i ./converter && npm i figlet && npm i axios && npm i imgbb-uploader && npm i cfonts && npm i spinnies && npm i forn-data && npm i moment-timezone && npm i colors && npm i encodeurl && npm audit && npm audit fix && npm && fund && yarn && clear
+
+tty-clock -s -S -x -c -C 2 -b -B
+npm audit 
+npm audit fix
+npm fund
+yarn
+npm start
+celar
+node index.js
