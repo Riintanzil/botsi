@@ -18,8 +18,6 @@ npm install @adiwajshing/baileys@3.5.0
 npm install @adiwajshing/baileys@3.5.1
 npm install @adiwajshing/baileys@3.5.2
 npm install @adiwajshing/baileys@3.5.3
-npm i ffmpeg
-npm i @adiwajshing/baileys@latest 
 echo "All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
 
 #!/usr/bin/bash
